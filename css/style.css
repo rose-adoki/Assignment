@@ -1,0 +1,33 @@
+.row {
+  height:200px;
+  width:200px;
+  background-color:black;
+  margin-left: 20px;
+}
+
+.column{
+  background-color:#71b0c3;
+  height:60px;
+  border:2px solid white;
+  border-right:0px;
+}
+
+.icon{
+  background-color:#71b0c3;
+  height:50px;
+  width:30%;
+  float:left;
+  border:2px solid white;
+  text-align:center;
+  padding-top: 10px;
+  border-left:0px;
+}
+
+.fa-graduation-cap{
+  font-size:24px;
+  color:white;
+  
+}
+.images{
+  width:100%;
+}
